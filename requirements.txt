@@ -1,5 +1,5 @@
 faster-whisper
-//sounddevice
+
 numpy
 streamlit
-//pyaudio
+
